@@ -1,0 +1,21 @@
+/* styles.css */
+body {background-color: grey;
+    font-family: Arial, sans-serif;}
+
+header {background-color: red;
+}
+
+h1 {
+    font-size: 2.5em;
+}
+
+nav > ul {line-height: 2em;
+    list-style-type: none;
+    padding-left:5px;
+}
+section {background-color: darkorange;
+    width: 75%;
+    font-size: 1.2em;
+}
+
+footer {background-color: red;}
