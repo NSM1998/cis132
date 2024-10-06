@@ -1,0 +1,23 @@
+/* styles.css */
+body {background-color: grey;
+    font-family: Arial, sans-serif;}
+
+header {background-color: red;
+}
+
+h1 {
+    font-size: 2.5em;
+}
+
+nav > ul {line-height: 2em;
+    list-style-type: none;
+    padding-left:5px;
+}
+h2 {
+    background-color: darkorange
+}
+h3 {
+    background-color: darkorange
+}
+
+footer {background-color: red;}
